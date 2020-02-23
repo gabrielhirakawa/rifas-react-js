@@ -28,8 +28,8 @@ export default function Rifa() {
             { id: '11', status: 'free' },
             { id: '12', status: 'free' },
             { id: '13', status: 'free' },
-            { id: '14', status: 'free' },
-            { id: '15', status: 'free' },
+            { id: '14', status: 'pago' },
+            { id: '15', status: 'pago' },
             
 
         ];
